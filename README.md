@@ -42,9 +42,9 @@ After you’ve set up your project in Visual Studio, you need to make sure that 
 
 3) Click Add Reference.
 
-4) Click Browse, navigate to the directory where you saved NUnit on your machine and go to framework -> 3.0.5797.27534.
+4) Click Browse, navigate to the directory where you saved NUnit on your machine and go to framework -> [version] folder.
 
-5) Once inside the 3.0.5797.27534 folder, click on the folder of the .Net Framework version that your Visual Studio is built on. For example, if you're using the .Net 4.0 Framework, you would select the net-40 folder.
+5) Once inside the [version] folder, click on the folder of the .Net Framework version that your Visual Studio is built on. For example, if you're using the .Net 4.0 Framework, you would select the net-40 folder.
 
 6) Add the nunit.framework.dll reference to your project.
 
