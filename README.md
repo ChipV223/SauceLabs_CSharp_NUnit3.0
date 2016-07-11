@@ -1,5 +1,5 @@
 # SauceLabs C#/NUnit3.0 Tutorial
-[![Sauce Test Status](https://saucelabs.com/buildstatus/ChipV223)](https://saucelabs.com/u/ChipV223)
+[![Sauce Test Status](https://saucelabs.com/buildstatus/ChipV223.svg)](https://saucelabs.com/u/ChipV223)
 
 NUnit is a unit-test framework for all .Net languages, written entirely in C# and designed to take advantage of many .NET language features, for example custom attributes and other reflection-related capabilities. With the latest version of the framework, NUnit 3.0, you can running tests in parallel without the need of adding the PNUnit extension as it was with NUnit 2.6.4. For more information and documentation about the framework, as well as how to use it in your testing, you can visit the [official NUnit website](http://www.nunit.org/index.php?p=home).
 
